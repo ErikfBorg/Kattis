@@ -1,5 +1,5 @@
 // WorkReduction.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// https://open.kattis.com/problems/reduction/statistics
 
 #include <iostream>
 #include <string>
